@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Lecturer**
 
-- 👨‍💻 All of my projects are available at [https://nivedharamasamy.neocities.org/portfolionew](https://nivedharamasamy.neocities.org/portfolionew)
+- 👨‍💻 All of my projects are available at [https://nivedharamasamy.neocities.org/portfolion](https://nivedharamasamy.neocities.org/portfolion)
 
 - 📫 How to reach me **nivedha.ramasamy14@gmail.com**
 
