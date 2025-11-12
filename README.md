@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nivedha</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center"> Java Full Stack Developer | Passionate about building web applications</h3>
 
 - 🔭 I’m currently working as **Lecturer**
 
@@ -27,7 +27,7 @@
 | [Quiz Application](https://github.com/nivedha1408/projectnew) | Full-stack quiz platform with user registration, analytics, and CI/CD integration. | Java • Spring Boot • MySQL • Thymeleaf |
 | [Movie Ticket Booking System](https://github.com/nivedha1408/moviebooking) | Search movies, view showtimes, reserve seats, and simulate payments. | Java • Spring Boot • MySQL • Bootstrap |
 | [Real Estate Listing Platform](https://github.com/nivedha1408/realestate) | Property listings with advanced filters and role-based access. | Java • Spring Boot • Thymeleaf • MySQL |
-| [Portfolio Website](https://github.com/nivedha1408/portfolio) | Personal portfolio website showcasing projects and skills. | HTML • CSS • JavaScript • Bootstrap |
+| [Portfolio Website](https://nivedharamasamy.neocities.org/portfolio) | Personal portfolio website showcasing projects and skills. | HTML • CSS • JavaScript • Bootstrap |
 
 ---
 
