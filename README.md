@@ -1,17 +1,42 @@
 <h1 align="center">Hi 👋, I'm Nivedha</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Lecturer**
+- 🔭 I’m currently working as **Lecturer**
 
-- 👨‍💻 All of my projects are available at [https://nivedharamasamy.neocities.org/portfolion](https://nivedharamasamy.neocities.org/portfolion)
 
-- 📫 How to reach me **nivedha.ramasamy14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12hdHLpLTGhd9VhbZgSup40_0wHRlQZcA/view?usp=drive_link](https://drive.google.com/file/d/12hdHLpLTGhd9VhbZgSup40_0wHRlQZcA/view?usp=drive_link)
+## 🛠 Skills & Technologies
+**Backend:** Java • Spring Boot • Microservices • REST APIs  
+**Frontend:** HTML • CSS • JavaScript • Thymeleaf • Bootstrap • React (optional)  
+**Database:** MySQL • MongoDB  
+**DevOps & Tools:** Docker • Git • GitHub Actions • Maven • Jenkins  
+**Testing:** JUnit • Mockito
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats & Badges
+[![Nivedha’s GitHub stats](https://github-readme-stats.vercel.app/api?username=nivedha1408&show_icons=true&theme=radical)](https://github.com/nivedha1408)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nivedha1408&layout=compact&theme=radical)](https://github.com/nivedha1408)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nivedha1408&theme=radical)](https://github.com/nivedha1408)
+
+---
+
+## 📁 Pinned Projects
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Quiz Application](https://github.com/nivedha1408/projectnew) | Full-stack quiz platform with user registration, analytics, and CI/CD integration. | Java • Spring Boot • MySQL • Thymeleaf |
+| [Movie Ticket Booking System](https://github.com/nivedha1408/moviebooking) | Search movies, view showtimes, reserve seats, and simulate payments. | Java • Spring Boot • MySQL • Bootstrap |
+| [Real Estate Listing Platform](https://github.com/nivedha1408/realestate) | Property listings with advanced filters and role-based access. | Java • Spring Boot • Thymeleaf • MySQL |
+| [Portfolio Website](https://github.com/nivedha1408/portfolio) | Personal portfolio website showcasing projects and skills. | HTML • CSS • JavaScript • Bootstrap |
+
+---
+
+## 📬 Contact Me
+📧 Email: [nivedha.ramasamy14@gmail.com](mailto:nivedha.ramasamy14@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/nivedha-ramasamy](https://www.linkedin.com/in/nivedha-ramasamy-077b80317)  
+💼 GitHub: [github.com/nivedha1408](https://github.com/nivedha1408)  
+📄 Resume: [Download Here](https://drive.google.com/file/d/17HHYxp1cZGqSjsVzPc667VEe6DJdn4oQ/view)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
