@@ -35,7 +35,7 @@
 📧 Email: [nivedha.ramasamy14@gmail.com](mailto:nivedha.ramasamy14@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/nivedha-ramasamy](https://www.linkedin.com/in/nivedha-ramasamy-077b80317)  
 💼 GitHub: [github.com/nivedha1408](https://github.com/nivedha1408)  
-📄 Resume: [Download Here](https://drive.google.com/file/d/17HHYxp1cZGqSjsVzPc667VEe6DJdn4oQ/view)
+📄 Resume: [Download Here](https://drive.google.com/file/d/1KY0omG_AzJgTfCK5KwLHedJVNrIA5L2v/view?usp=drive_link)
 
 ---
 
